@@ -4,9 +4,6 @@
 
 HTML, CSS, and JavaScript project featuring Toptracer Range technology for golf enthusiasts. Explore golf lessons, adventure golf, and a cozy coffee shop. Responsive design and GSAP animations enhance user experience. Welcome to Sidcup Family Golf, where technology meets golfing fun!
 
-## Logo:
-![Sidcup Family Golf Logo](path/to/logo.png)
-
 # Sidcup Family Golf
 
 Welcome to Sidcup Family Golf, a multipurpose golf facility in Sidcup, South East London. This project showcases the use of HTML, CSS, JavaScript, and GSAP animations to create an interactive platform for golf enthusiasts.
