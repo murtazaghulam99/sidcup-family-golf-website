@@ -1,4 +1,4 @@
-# Repository Name: SidcupFamilyGolf
+# Sidcup Family Golf - HTML CSS JavaScript Website
 
 ## Description:
 
@@ -45,11 +45,10 @@ Stay updated with Sidcup news and special offers by signing up for our newslette
 
 ## Testimonials
 
-"Excellent couple of hours, relax and enjoy the fun. Staff were accommodating, friendly, and very helpful. Café on site for refreshments etc. Will keep children entertained during the holidays. Worth a visit if you haven’t been."
+"Excellent couple of hours, relax and enjoy the fun. The staff were accommodating, friendly, and very helpful. Café on site for refreshments etc. Will keep children entertained during the holidays. Worth a visit if you haven’t been."
 
 ## What Are You Waiting For?
 
 Explore our Toptracer Range, Golf Lessons, and Adventure Golf. Join us for an exciting golfing experience!
 
 ```
-Please replace `"path/to/logo.png"` with the actual path or URL to your logo image.
